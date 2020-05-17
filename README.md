@@ -67,6 +67,7 @@ see example
 | prefixCls | prefix class | String | 'rmc-pull-to-refresh' |
 | damping | pull damping, suggest less than 200 | number | 100 |
 | scale | damping scale | number | 0.6 |
+| enableMouse | enabling mouse events | boolean | false |
 
 ## Test Case
 
