@@ -1,16 +1,16 @@
 {
-  "_from": "rmc-pull-to-refresh-mouse",
-  "_id": "rmc-pull-to-refresh-mouse@1.0.10",
+  "_from": "rmc-pull-to-refresh",
+  "_id": "rmc-pull-to-refresh@1.0.12",
   "_inBundle": false,
   "_integrity": "sha512-OQPRY5RzhRNi0amyvwIrENqQHQRJh7bF8Hdcn/wqTSKsC5Cn1pGJ4bNG1+iL9w1N+PoKt+ESvL2ap8fVqwuH1w==",
-  "_location": "/rmc-pull-to-refresh-mouse",
+  "_location": "/rmc-pull-to-refresh",
   "_phantomChildren": {},
   "_requested": {
     "type": "tag",
     "registry": true,
-    "raw": "rmc-pull-to-refresh-mouse",
-    "name": "rmc-pull-to-refresh-mouse",
-    "escapedName": "rmc-pull-to-refresh-mouse",
+    "raw": "rmc-pull-to-refresh",
+    "name": "rmc-pull-to-refresh",
+    "escapedName": "rmc-pull-to-refresh",
     "rawSpec": "",
     "saveSpec": null,
     "fetchSpec": "latest"
